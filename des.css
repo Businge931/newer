@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+}
+p{
+    font-size: 17px;
+    margin: 5px;
+    background-color: grey;
+}
+h3{
+    text-align: center;
+    color: brown;
+}
+.navbar{
+    height: 100px;
+}
+.menu{
+    display: block;
+}
+.nav-item{
+    width: 100%;
+    text-align: center;
+    border: 1.5px solid black;
+    list-style: none;
+}
+
+
